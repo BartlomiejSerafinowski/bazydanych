@@ -1,0 +1,10 @@
+w pliku tekstowym doc zapisaæ pierwszt zestaw
+
+a) concad - konkatynacja stringów
+jak jest int to alterem nowa tabela i bierzesz i doklejasz kierunkowy, ma byæ var
+b) substr albo substring
+c) 
+D) 
+e) z³¹czenie lewostronne
+f) zapytanie po prostu dla ka¿dego rekordu
+ 
