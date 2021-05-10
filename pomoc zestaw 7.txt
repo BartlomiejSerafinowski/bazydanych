@@ -1,0 +1,12 @@
+7A
+
+znormalizowaæ tabelê
+mamy uzyskaæ w 1 i 2 maksymalnie wysoka postaæ normalna 
+
+z wyk³adu albo tutorial normalizacji
+
+7B 
+
+pobieramy bazê adventureworks i robimy restore
+2 i 3 zadania z gwiazdk¹
+
